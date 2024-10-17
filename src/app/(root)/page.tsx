@@ -11,13 +11,41 @@ export default function RootPage() {
       </section>
       {/* 카드가 들어갈 위치. 회사이미지, 제목, 직무카테고리 */}
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-4 mb-4">
-        <Card imageUrl="" title="SK" category="Software Engineer" />
-        <Card imageUrl="" title="SK" category="Software Engineer" />
-        <Card imageUrl="" title="SK" category="Software Engineer" />
-        <Card imageUrl="" title="SK" category="Software Engineer" />
-        <Card imageUrl="" title="SK" category="Software Engineer" />
-        <Card imageUrl="" title="SK" category="Software Engineer" />
-        <Card imageUrl="" title="SK" category="Software Engineer" />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
+        <Card
+          imageUrl="/company_image/sk_image.png"
+          title="SK"
+          category="Software Engineer"
+        />
       </section>
     </div>
   );

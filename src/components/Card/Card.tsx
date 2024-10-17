@@ -9,7 +9,7 @@ interface CardProps {
 export default function Card({ imageUrl, title, category }: CardProps) {
   return (
     <div className="border rounded-lg shadow-lg overflow-hidden w-full max-w-xs">
-      <div className="relative w-full h-48">
+      <div className="relative w-full h-32">
         <Image
           src={imageUrl}
           alt={title}
