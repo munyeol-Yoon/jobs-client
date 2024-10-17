@@ -15,36 +15,43 @@ export default function RootPage() {
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
         <Card
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
         <Card
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
         <Card
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
         <Card
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
         <Card
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
         <Card
           imageUrl="/company_image/sk_image.png"
           title="SK"
           category="Software Engineer"
+          link="https://www.skcareers.com/Recruit/Detail/R241220"
         />
       </section>
     </div>
