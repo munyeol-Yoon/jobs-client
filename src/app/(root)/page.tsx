@@ -19,7 +19,7 @@ export default async function RootPage() {
         <CustomInput className="flex-grow mr-2" />
         <CustomButton label="입력" className="flex-shrink-0" />
       </section>
-      <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-4 mb-4">
+      <section className="grid grid-cols-1 gap-4 mt-4 mb-4">
         {jobs.map((job) => (
           <Card
             key={job.id}
